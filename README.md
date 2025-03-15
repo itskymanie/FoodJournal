@@ -1,10 +1,10 @@
 # FoodJournal
 
-📌 Overview
+##📌 Overview
 
 The Food Journal is a simple and intuitive application designed to help users track their daily meals, monitor nutritional intake, and establish healthy eating habits. Users can log meals, categorize food items, and view insightful analytics about their diet.
 
-🚀 Features
+##🚀 Features
 
 📝 Meal Logging – Record daily meals with timestamps.
 
@@ -16,7 +16,7 @@ The Food Journal is a simple and intuitive application designed to help users tr
 
 📱 Responsive Design – Works seamlessly on mobile and desktop.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Frontend: React (for web app), React Native (for mobile app)
 
@@ -26,44 +26,44 @@ Database: MongoDB (or SQLite for local storage)
 
 Authentication: Firebase Auth (or JWT-based authentication)
 
-🎯 Getting Started
+##🎯 Getting Started
 
-Prerequisites
+###Prerequisites
 
 Ensure you have the following installed:
 
 Node.js & npm
 
-MongoDB (if using a database)
+MongoDB 
 
 Git
 
-Installation
+###Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/food-journal.git
+git clone https://github.com/itskymanie/food-journal.git
 cd food-journal
 
-Install dependencies:
+###Install dependencies:
 
 npm install
 
-Start the backend server:
+###Start the backend server:
 
 npm run server
 
-Start the frontend application:
+###Start the frontend application:
 
 npm start
 
-🛡️ Security & Privacy
+##🛡️ Security & Privacy
 
 User data is securely stored with encrypted authentication.
 
 No personal data is shared with third parties.
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 
 📷 Image Upload – Capture food photos for better tracking.
 
@@ -73,10 +73,10 @@ No personal data is shared with third parties.
 
 📈 Advanced Analytics – Visualize trends and nutrition reports.
 
-🤝 Contributing
+##🤝 Contributing
 
 We welcome contributions! Feel free to fork this repository and submit a pull request with improvements or new features.
 
-📜 License
+##📜 License
 
 This project is licensed under the MIT License.
