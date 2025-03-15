@@ -1,10 +1,10 @@
 # FoodJournal
 
-##📌 Overview
+## 📌 Overview
 
 The Food Journal is a simple and intuitive application designed to help users track their daily meals, monitor nutritional intake, and establish healthy eating habits. Users can log meals, categorize food items, and view insightful analytics about their diet.
 
-##🚀 Features
+## 🚀 Features
 
 📝 Meal Logging – Record daily meals with timestamps.
 
@@ -16,7 +16,7 @@ The Food Journal is a simple and intuitive application designed to help users tr
 
 📱 Responsive Design – Works seamlessly on mobile and desktop.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React (for web app), React Native (for mobile app)
 
