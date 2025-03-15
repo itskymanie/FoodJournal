@@ -26,7 +26,7 @@ Database: MongoDB (or SQLite for local storage)
 
 Authentication: Firebase Auth (or JWT-based authentication)
 
-##🎯 Getting Started
+## 🎯 Getting Started
 
 ###Prerequisites
 
@@ -38,7 +38,7 @@ MongoDB
 
 Git
 
-###Installation
+### Installation
 
 Clone the repository:
 
@@ -49,21 +49,21 @@ cd food-journal
 
 npm install
 
-###Start the backend server:
+### Start the backend server:
 
 npm run server
 
-###Start the frontend application:
+### Start the frontend application:
 
 npm start
 
-##🛡️ Security & Privacy
+## 🛡️ Security & Privacy
 
 User data is securely stored with encrypted authentication.
 
 No personal data is shared with third parties.
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 📷 Image Upload – Capture food photos for better tracking.
 
@@ -73,10 +73,10 @@ No personal data is shared with third parties.
 
 📈 Advanced Analytics – Visualize trends and nutrition reports.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions! Feel free to fork this repository and submit a pull request with improvements or new features.
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
