@@ -28,7 +28,7 @@ Authentication: Firebase Auth (or JWT-based authentication)
 
 ## 🎯 Getting Started
 
-###Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
@@ -45,7 +45,7 @@ Clone the repository:
 git clone https://github.com/itskymanie/food-journal.git
 cd food-journal
 
-###Install dependencies:
+### Install dependencies:
 
 npm install
 
