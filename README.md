@@ -1,5 +1,4 @@
 # FoodJournal
-Food Journal
 
 📌 Overview
 
